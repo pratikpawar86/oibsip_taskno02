@@ -1,0 +1,51 @@
+body {
+    margin: 0 20%;
+}
+
+#title {
+    text-align: center;
+    font-size: 2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img-div h3 {
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+    font-family: monospace;
+    font-weight: 100;
+}
+
+#img-caption {
+    font-size: 20px;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 0 10%;
+    width: 80%;
+    margin: 0 10%;
+}
+
+div#tribute-info {   
+    padding: 5px 10px;
+    margin-top: 20px;
+    font-family: serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+li {
+    margin: 15px 0;
+    color: #1e1e1e;
+  }
